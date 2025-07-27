@@ -1,0 +1,17 @@
+{
+  "name": "y-websocket-server",
+  "version": "1.0.0",
+  "description": "Yjs WebSocket server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.2",
+    "y-websocket": "1.3.12"
+  }
+}
