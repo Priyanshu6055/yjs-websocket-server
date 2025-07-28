@@ -23,12 +23,13 @@ Install dependencies:
 
 ```bash
 npm install ws y-websocket
-
+```
 
 🛠️ How to Run
 Clone the repo or copy the server file into your project.
 
-Run the server with:
 
-bash
+Run the server with:
+```bash
+
 node server.js
