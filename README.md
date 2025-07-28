@@ -1,6 +1,7 @@
 # 🧠 Yjs WebSocket Server
 
 This is a simple WebSocket server built with [Node.js](https://nodejs.org/) and [y-websocket](https://github.com/yjs/y-websocket) to enable **real-time collaborative editing** using the Yjs CRDT framework.
+This is a part of the CodeCoLab project. It serves as the basic server for the application.
 
 ---
 
@@ -33,4 +34,4 @@ Clone the repo or copy the server file into your project.
 Run the server with:
 ```bash
 
-node server.js
+npm start
