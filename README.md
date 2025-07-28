@@ -11,6 +11,7 @@ This is a simple WebSocket server built with [Node.js](https://nodejs.org/) and 
 - Logs new client connections with their IP
 - Logs incoming messages from clients (safe and trimmed)
 - Supports real-time collaborative applications (e.g., collaborative code editors, documents)
+- This server use in this project - https://github.com/Priyanshu6055/CodeCoLab.git
 
 ---
 
